@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "build",
+            "path": "10-grocery-bud/setup/",
+            "problemMatcher": []
+        }
+    ]
+}
